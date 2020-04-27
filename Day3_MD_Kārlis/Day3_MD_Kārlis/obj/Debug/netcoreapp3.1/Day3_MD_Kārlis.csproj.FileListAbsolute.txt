@@ -1,0 +1,13 @@
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.csprojAssemblyReference.cache
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.csproj.CoreCompileInputs.cache
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.AssemblyInfoInputs.cache
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.AssemblyInfo.cs
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.exe
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.deps.json
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.runtimeconfig.json
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.runtimeconfig.dev.json
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.dll
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\bin\Debug\netcoreapp3.1\Day3_MD_Kārlis.pdb
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.dll
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.pdb
+C:\Users\akots\source\repos\Day3_MD_Kārlis\Day3_MD_Kārlis\obj\Debug\netcoreapp3.1\Day3_MD_Kārlis.genruntimeconfig.cache
